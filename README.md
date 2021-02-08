@@ -3,7 +3,8 @@ Assistant to review Carcassonne games on BoardGameArena.
 
 ## Features
 * Count remaining tiles.
-* Count how many tiles fit in a given spot (broken).
+* Count how many tiles fit in a given spot (broken for new games).
+* Highlight tiles with right click and control right click (partially broken).
 
 Notice if works only in training games and review mode.
 
